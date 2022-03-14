@@ -1,0 +1,23 @@
+Place this folder of "FitnessWeb" at location of "\xampp\htdocs".
+
+Then open the Xampp client panel
+
+1. Start Apache server
+
+2. Start MySQL Server
+
+3. open "localhost/phpmyadmin" on any browser.
+
+4. Create new database by clicking "New" option.
+
+5. Name the database as "gym".
+
+6. Click "create", then click on "Import" button.
+
+7. Click "choose file" button, and locate "gym.sql" in "FitnessWeb" folder.
+
+8. Scroll Down and click "Go" button.
+
+9. Now open "localhost/FitnessWeb" on any browser.
+
+## ENJOY ##
